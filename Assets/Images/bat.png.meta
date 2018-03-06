@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 1255d39491d1095408dfed7f53454137
+timeCreated: 1454192186
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bat_0
+    21300002: bat_1
+    21300004: bat_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bat_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 157
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 48.5}
+        - {x: -68.5, y: 35.5}
+        - {x: -78.5, y: -26.5}
+        - {x: -78.5, y: -48.5}
+        - {x: -8.5, y: -48.5}
+        - {x: 15.5, y: -46.5}
+        - {x: 73.5, y: 6.5}
+        - {x: 78.5, y: 14.5}
+        - {x: 78.5, y: 48.5}
+    - name: bat_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 37.5}
+        - {x: -45, y: 17.5}
+        - {x: -45, y: -37.5}
+        - {x: -12, y: -37.5}
+        - {x: 45, y: -26.5}
+        - {x: 45, y: 8.5}
+        - {x: 23, y: 37.5}
+    - name: bat_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 43}
+        - {x: -54.5, y: 1}
+        - {x: -54.5, y: -31}
+        - {x: -27.5, y: -43}
+        - {x: 48.5, y: -43}
+        - {x: 53.5, y: -40}
+        - {x: 53.5, y: 43}
+      - - {x: 50.5, y: 25}
+        - {x: 50.5, y: 22}
+        - {x: 52.5, y: 20}
+        - {x: 54.5, y: 20}
+        - {x: 54.5, y: 27}
+        - {x: 52.5, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

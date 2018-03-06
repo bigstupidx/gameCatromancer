@@ -1,0 +1,30 @@
+Bohater:
+- kot na dwóch ³apach w szacie i kapeluszu czarodzieja
+- uszy kota wychodz¹ przez dziury w kapeluszu, a ogon z ty³u szaty
+- kot ma w ³apce ró¿d¿kê
+Sterowanie:
+- przy pomocy WSAD kot chodzi po planszy
+- spacj¹ wykonuje siê akcjê: zamykanie okna, zwijanie scrolla, zapalenie œwieczki
+- kursorem celowanie; strzelanie z ró¿d¿ki LPM i naprawa pentagramu PPM
+Obra¿enia:
+- kot ma 3 ¿ycia
+- po oberwaniu kot traci 1 ¿ycie i przez chwilê miga bêd¹c nieœmiertelnym
+Obra¿enia pentagramu:
+- diabe³ek psika na pentagram zamazuj¹c jego fragment
+- nietoperz bêdzie gasiæ œwieczki naoko³o pentagramu
+
+Wrogowie:
+1. Nietoperek z ¿ó³tymi wy³upiastymi oczami
+- lata slalomem odbijaj¹c siê od œcian
+- atakuje jeœli dotknie kota
+
+2. Diabe³ek z wid³ami i psikawk¹ na wodê
+- atakuje psikaj¹c wod¹
+- wid³y s¹ dla picu
+
+3. Pies-demon z pyskiem buldoga
+- strzela ognistymi pociskami, które po trafieniu kota zabieraj¹ mu 1 ¿ycie
+
+Przywo³ywany demon:
+- koci antybóg
+- pojawia sie coraz bardziej z czasem trwania rytua³u
